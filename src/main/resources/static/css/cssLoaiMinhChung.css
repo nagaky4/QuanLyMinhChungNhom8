@@ -1,0 +1,55 @@
+#loaiminhchung {
+  background: #d3cfd1;
+  padding: 80px 0;
+}
+
+#loaiminhchung #loaiminhchung-menu {
+  padding: 0;
+  margin: 0 0 45px 0;
+  list-style: none;
+  text-align: center;
+}
+
+#loaiminhchung #loaiminhchung-menu li{
+  margin: 0 10px;
+  display: inline-block; 
+  margin-bottom: 5px;  
+}
+input[type=submit]{
+	border-radius:5px;
+	width:150px;
+	height:50px;
+	background: #fff;
+	line-height: 20px;
+	font-size: 12px;
+	transition: all 0.3s ease-in-out; 
+	text-transform: uppercase;
+	color: #666666;
+}
+#loaiminhchung #loaiminhchung-menu li :hover, #loaiminhchung #loaiminhchung-menu li.filter-active {
+  background: #2dc997;
+  color: #fff;
+}
+.tinTucSuKien-Header{
+  background-color: #d0d2ed;
+  padding-bottom:10px;
+}
+
+.tinTucSuKien-all{
+  background-color: #e1e5ef;
+}
+
+.tinTucSuKien-image{
+  width :100%;
+  height : auto;
+}
+
+.tinTucSuKien-item{
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.tinTucSuKien-content{
+  	font-size: 18px;
+  
+}

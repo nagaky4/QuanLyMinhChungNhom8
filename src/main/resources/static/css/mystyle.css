@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+div.divxoa {
+    text-align: center;
+    width: 21%;
+    height: 20%;
+    border-radius: 30px;
+    background: #ffe274;
+    position: fixed;
+    margin-left: 40%;
+    z-index: 1;
+    top: 10%;
+    padding: 1%;
+}
+.xuathien{
+    opacity: 1;
+    visibility: visible;
+}
+.andi{
+    opacity: 0;
+    visibility: hidden;
+}

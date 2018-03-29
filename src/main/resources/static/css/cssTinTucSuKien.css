@@ -1,0 +1,22 @@
+.tinTucSuKien-Header{
+  background-color: #d0d2ed;
+  padding-bottom:10px;
+}
+
+.tinTucSuKien-all{
+  background-color: #e1e5ef;
+}
+
+.tinTucSuKien-image{
+  width :100%;
+  height : auto;
+}
+
+.tinTucSuKien-item{
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.tinTucSuKien-content{
+  font-size: 18px;
+}
